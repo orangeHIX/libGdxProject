@@ -1,0 +1,7 @@
+F:\libGdxProject\android\build\intermediates\classes\debug
+F:\libGdxProject\android\build\intermediates\pre-dexed\debug\core-1.0-192844c8fe4d266cb6f2cb35aeb544c7a7202714.jar
+F:\libGdxProject\android\build\intermediates\pre-dexed\debug\ashley-1.3.1-8b394f2fcde20a4bbac4a7fed5cf3db564069355.jar
+F:\libGdxProject\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.5.5-148c549d416ebf6e12e4e518d4b9004a0c380334.jar
+F:\libGdxProject\android\build\intermediates\pre-dexed\debug\gdx-ai-1.5.0-10ee6cfaf74facfb087d5bbd3d34b25effe8a8af.jar
+F:\libGdxProject\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.5-a1a3a7fe74d08a6a426bdaa80fc36d9afd14f08b.jar
+F:\libGdxProject\android\build\intermediates\pre-dexed\debug\gdx-1.5.5-3adf2cacc87dbb09fdca46dc6c5c5257ea7c753b.jar

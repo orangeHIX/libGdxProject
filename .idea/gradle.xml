@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="E:/cloneProject/libgdx-cookbook/samples" />
+        <option name="gradleHome" value="D:/Program Files/gradle-2.4" />
+        <option name="modules">
+          <set>
+            <option value="E:/cloneProject/libgdx-cookbook/samples" />
+            <option value="E:/cloneProject/libgdx-cookbook/samples/android" />
+            <option value="E:/cloneProject/libgdx-cookbook/samples/core" />
+            <option value="E:/cloneProject/libgdx-cookbook/samples/desktop" />
+            <option value="E:/cloneProject/libgdx-cookbook/samples/gwt" />
+            <option value="E:/cloneProject/libgdx-cookbook/samples/ios" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/Program Files/gradle-2.4" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/android" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/desktop" />
+            <option value="$PROJECT_DIR$/html" />
+            <option value="$PROJECT_DIR$/ios" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
